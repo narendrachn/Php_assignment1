@@ -1,6 +1,7 @@
 <?php 
 $name  = 'Guest';
 $name  = 'Narendra';
+$name  = 'Chowdary';
 $price = 5;
 ?>
 <!DOCTYPE html>
