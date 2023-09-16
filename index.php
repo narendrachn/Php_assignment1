@@ -1,6 +1,6 @@
 <?php 
-$items    = 3;
-$cost     = 5;
+$items    = 12;
+$cost     = 7;
 $subtotal = $cost * $items;
 $tax      = ($subtotal / 100) * 20;
 $total    = $subtotal + $tax;
