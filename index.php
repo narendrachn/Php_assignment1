@@ -1,11 +1,12 @@
 <?php 
-$name  = 'Narendra Chowdary';
-$price = 2;
+$name  = 'Guest';
+$name  = 'Ivy';
+$price = 5;
 ?>
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Variables</title>
+    <title>Updating Variables</title>
     <link rel="stylesheet" href="css/styles.css">
   </head>
   <body>
